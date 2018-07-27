@@ -12,6 +12,7 @@ The steps in the script are roughly the following:
 <li>Stores the longest protein sequence for each DNA sequence in a dictionary</li>
 <li>Can save the protein sequences on a fasta file or print the sequences on the terminal</li>
 </ol>
+
 <strong>HOW TO USE</strong>
 
 The script can be used by entering the following into the terminal:
